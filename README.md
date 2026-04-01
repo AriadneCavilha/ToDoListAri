@@ -8,5 +8,4 @@ Esse é um aplicativo em desenvolvimento para conseguir listar quais tarefas um 
 
 
 # Versionamento
-Versionamento está sendo feito pelo GitLab, criando issues para conseguir entender melhor o fluxo e prioridade de cada atividade
-
+Versionamento está sendo feito pelo Jira, primeira vez que estarei utilizando essa plataforma
